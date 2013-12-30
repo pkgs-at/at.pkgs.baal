@@ -1,7 +1,7 @@
 #version=1
-at.pkgs.baal.bench,1.0.0.201312271742,plugins/at.pkgs.baal.bench_1.0.0.201312271742.jar,4,false
-at.pkgs.baal.lang,1.0.0.201312271742,plugins/at.pkgs.baal.lang_1.0.0.201312271742.jar,4,false
-at.pkgs.baal.lang.ui,1.0.0.201312271742,plugins/at.pkgs.baal.lang.ui_1.0.0.201312271742.jar,4,false
+at.pkgs.baal.bench,1.0.0.201312301818,plugins/at.pkgs.baal.bench_1.0.0.201312301818.jar,4,false
+at.pkgs.baal.lang,1.0.0.201312301818,plugins/at.pkgs.baal.lang_1.0.0.201312301818.jar,4,false
+at.pkgs.baal.lang.ui,1.0.0.201312301818,plugins/at.pkgs.baal.lang.ui_1.0.0.201312301818.jar,4,false
 com.google.guava,10.0.1.v201203051515,plugins/com.google.guava_10.0.1.v201203051515.jar,4,false
 com.google.inject,3.0.0.v201203062045,plugins/com.google.inject_3.0.0.v201203062045.jar,4,false
 com.google.inject.assistedinject,3.0.0.201306110846,plugins/com.google.inject.assistedinject_3.0.0.201306110846.jar,4,false
